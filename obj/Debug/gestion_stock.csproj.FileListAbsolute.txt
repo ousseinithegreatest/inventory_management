@@ -1,0 +1,9 @@
+c:\users\ousseini\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\bin\Debug\gestion_stock.exe.config
+c:\users\ousseini\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\obj\Debug\gestion_stock.csprojResolveAssemblyReference.cache
+c:\users\ousseini\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\obj\Debug\gestion_stock.Form1.resources
+c:\users\ousseini\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\obj\Debug\gestion_stock.Properties.Resources.resources
+c:\users\ousseini\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\obj\Debug\gestion_stock.csproj.GenerateResource.Cache
+C:\Users\OUSSEINI\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\bin\Debug\gestion_stock.exe
+C:\Users\OUSSEINI\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\bin\Debug\gestion_stock.pdb
+C:\Users\OUSSEINI\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\obj\Debug\gestion_stock.exe
+C:\Users\OUSSEINI\documents\visual studio 2013\Projects\gestion_stock\gestion_stock\obj\Debug\gestion_stock.pdb
